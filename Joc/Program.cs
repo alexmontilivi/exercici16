@@ -13,9 +13,10 @@ namespace Joc
             int opcio;
             Console.WriteLine("Introdueix el numero del joc!");
             Console.WriteLine();
-            Console.WriteLine("***** 1 - CS - *****");
+            Console.WriteLine("***** 1 - CS         - *****");
             Console.WriteLine("***** 2 - TETRIS     - *****");
             Console.WriteLine("***** 3 - SALIR      - *****");
+            Console.WriteLine("***** 4 - BUSCAMINES - *****")
             opcio = int.Parse(Console.ReadLine());
             Console.WriteLine();
             switch (opcio)
@@ -31,6 +32,9 @@ namespace Joc
                 case 3:
                     Console.WriteLine("HASTA LUEGO MARICARMEN!");
                     break;
+                
+                case 4:
+                    Console.WriteLine("HOLAA BUSCAMINERO!!")
             }
         }
     }
