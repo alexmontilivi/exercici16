@@ -12,7 +12,7 @@ namespace Joc
         {
             int opcio;
             Console.WriteLine("Introdueix el numero del joc!");
-            Console.WriteLine();
+            Console.WriteLine(".");
             Console.WriteLine("***** 1 - CS         - *****");
             Console.WriteLine("***** 2 - TETRIS     - *****");
             Console.WriteLine("***** 3 - SALIR      - *****");
