@@ -18,7 +18,7 @@ namespace Joc
             Console.WriteLine("***** 3 - SALIR      - *****");
             Console.WriteLine("***** 4 - BUSCAMINES - *****")
             opcio = int.Parse(Console.ReadLine());
-            Console.WriteLine();
+            Console.WriteLine(".");
             switch (opcio)
             {
                 case 1:
