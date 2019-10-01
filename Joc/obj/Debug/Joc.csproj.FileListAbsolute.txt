@@ -1,0 +1,7 @@
+C:\provesgit\Jocs\Joc\bin\Debug\Joc.exe.config
+C:\provesgit\Jocs\Joc\bin\Debug\Joc.exe
+C:\provesgit\Jocs\Joc\bin\Debug\Joc.pdb
+C:\provesgit\Jocs\Joc\obj\Debug\Joc.csprojAssemblyReference.cache
+C:\provesgit\Jocs\Joc\obj\Debug\Joc.csproj.CoreCompileInputs.cache
+C:\provesgit\Jocs\Joc\obj\Debug\Joc.exe
+C:\provesgit\Jocs\Joc\obj\Debug\Joc.pdb
